@@ -19,7 +19,7 @@ width=300px>
 | 2017 / 03 | DQFD | 4659 | True | [**paper**](https://arxiv.org/pdf/1704.03732.pdf)|
 | 2016 / 06 | CTS+intrinsic | 6600 | False | [**paper**](https://arxiv.org/pdf/1606.01868.pdf)|
 | 2018 / 05 | Ape-X DQFD | 29384 | True | [**paper**](https://arxiv.org/pdf/1805.11593v1.pdf)|
-| 2018 / 05 | Youtube | 29384 | True | [**paper**](https://arxiv.org/pdf/1805.11592v1.pdf)|
+| 2018 / 05 | TDC+CMC(Youtube) | 41098 | True | [**paper**](https://arxiv.org/pdf/1805.11592v1.pdf)|
 | 2018 / 05 | PPO-reset | 74500 | True | [**blog**](https://blog.openai.com/learning-montezumas-revenge-from-a-single-demonstration/) [**code**](https://github.com/openai/atari-reset)|
 
 
