@@ -1,7 +1,7 @@
 # rl-montezuma
 The state-of-art deep rl algorithms for Montezuma's revenge
 
-Montezuma's revenge is most hardest game to complete in Atari games. So it has been the target of many Deep Reinforcement Learning algorithms. The purpose of this repository is gathering deep-rl algorithms and compare the performance.
+Montezuma's revenge is the most hardest game to complete in Atari games. So it has been the target of many Deep Reinforcement Learning algorithms. The purpose of this repository is gathering deep-rl algorithms and comparing the performances.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/16641054/46388694-bed38880-c708-11e8-994f-18d55d6943a8.png" 
